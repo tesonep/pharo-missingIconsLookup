@@ -1,0 +1,16 @@
+{
+	"category" : "MissingIconLookup",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TRBProgramNodeVisitor classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"icons" ],
+	"name" : "IconLookup",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "TRBProgramNodeVisitor",
+	"type" : "normal" }
